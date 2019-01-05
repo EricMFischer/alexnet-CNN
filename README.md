@@ -6,8 +6,7 @@ gained by neural networks. Inspired by Yann LeCun et al. (1998) LeNet-5 model, t
 first deep learning model, published by Alex Krizhevsky et al. (2012) drew attention to
 the public by getting a top-5 error rate of 15.3% outperforming the previous best one
 with an accuracy of 26.2% using a SIFT model. This model, the so-called 'AlexNet',
-is what can be considered today as a simple architecture with five consecutive convo-
-lutional filters, max-pool layers, and three fully-connected layers. This project is designed to provide you with first-hand experience on training a typical Convolutional Neural Network (ConvNet) model in a discriminative classification
+is what can be considered today as a simple architecture with five consecutive convolutional filters, max-pool layers, and three fully-connected layers. This project is designed to provide you with first-hand experience on training a typical Convolutional Neural Network (ConvNet) model in a discriminative classification
 task. The model will be trained by Stochastic Gradient Descent, which is arguably the
 canonical optimization algorithm in Deep Learning.
 
